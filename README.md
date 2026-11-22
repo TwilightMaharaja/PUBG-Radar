@@ -84,6 +84,6 @@ A lightweight, fully external PUBG radar. Reads game memory from a separate proc
 ```bash
 1. Download the latest release archive
 2. Extract to a folder OUTSIDE of the PUBG directory
-3. Run Loader.exe as Administrator
+3. Run .exe as Administrator
 4. Launch PUBG
 5. Press INSERT to open the radar
