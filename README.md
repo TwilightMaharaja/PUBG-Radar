@@ -4,11 +4,11 @@
 
 **Undetected · External · Radar + Player ESP**
 
-[![Version](https://img.shields.io/badge/version-1.9.3-blue?style=for-the-badge)](https://github.com/)
 [![Status](https://img.shields.io/badge/status-undetected-brightgreen?style=for-the-badge)](https://github.com/)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows)](https://github.com/)
 [![C++](https://img.shields.io/badge/C%2B%2B-20-00599C?style=for-the-badge&logo=cplusplus)](https://github.com/)
 [![License](https://img.shields.io/badge/license-private-red?style=for-the-badge)](https://github.com/)
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)]()
 
 ---
 
@@ -68,6 +68,8 @@ A lightweight, fully external PUBG radar. Reads game memory from a separate proc
 </div>
 
 ---
+
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)]()
 
 ## 🚀 Installation
 
